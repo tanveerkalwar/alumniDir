@@ -1,3 +1,3 @@
 # alumniDir
 
-This is simple Alumni Directory build as university project.
+This is simple Alumni Directory built as university project.
